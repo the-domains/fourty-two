@@ -1,0 +1,14 @@
+layout_spectrum: 0.2525208266451955
+typography_spectrum: 0.12125863321125507
+color:
+  brandStrength: 0.140948839019984
+  lightness: 0.2795525591354817
+  saturation: 0.16329570743255317
+  rhythmicContrast: 0.09286651434376836
+  brandColors:
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+name: fourty-two
